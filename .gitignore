@@ -1,0 +1,17 @@
+# --- VARIABLES D’ENVIRONNEMENT ---
+.env
+*.env
+
+# --- LOGS ET TEMPORAIRES ---
+*.log
+*.tmp
+*.bak
+*.swp
+.cache/
+.ipynb_checkpoints/
+
+# --- DONNÉES LOURDES / NON CODE ---
+*.zip
+
+# --- DOSSIERS DE DONNÉES ---
+/data/
