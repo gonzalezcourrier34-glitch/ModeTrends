@@ -2,13 +2,6 @@
 .env
 *.env
 
-# --- LOGS ET TEMPORAIRES ---
-*.log
-*.tmp
-*.bak
-*.swp
-.cache/
-
 # --- DONNÉES LOURDES / NON CODE ---
 *.zip
 *.pptx
