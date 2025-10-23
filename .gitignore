@@ -8,10 +8,10 @@
 *.bak
 *.swp
 .cache/
-.ipynb_checkpoints/
 
 # --- DONNÉES LOURDES / NON CODE ---
 *.zip
+*.pptx
 
 # --- DOSSIERS DE DONNÉES ---
 /data/
