@@ -6,5 +6,8 @@
 *.zip
 *.pptx
 
+# Fichiers personnels
+suivi_projet.md
+
 # --- DOSSIERS DE DONNÉES ---
 /data/
