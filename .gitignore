@@ -7,7 +7,7 @@
 *.pptx
 
 # Fichiers personnels
-suivi_projet.md
+/perso/
 
 # --- DOSSIERS DE DONNÉES ---
 /data/
