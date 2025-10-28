@@ -1312,6 +1312,22 @@ files = [
 dill = ">=0.3.8"
 
 [[package]]
+name = "natsort"
+version = "8.4.0"
+description = "Simple yet flexible natural sorting in Python."
+optional = false
+python-versions = ">=3.7"
+groups = ["main"]
+files = [
+    {file = "natsort-8.4.0-py3-none-any.whl", hash = "sha256:4732914fb471f56b5cce04d7bae6f164a592c7712e1c85f9ef585e197299521c"},
+    {file = "natsort-8.4.0.tar.gz", hash = "sha256:45312c4a0e5507593da193dedd04abb1469253b601ecaf63445ad80f0a1ea581"},
+]
+
+[package.extras]
+fast = ["fastnumbers (>=2.0.0)"]
+icu = ["PyICU (>=1.0.0)"]
+
+[[package]]
 name = "numpy"
 version = "2.3.4"
 description = "Fundamental package for array computing in Python"
@@ -2359,4 +2375,4 @@ propcache = ">=0.2.1"
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.13"
-content-hash = "1f50e33337dddcfc4bd7b395fafc67cc982a758c5c1fd22d40f19bdbc11df795"
+content-hash = "632da6481b83f93d3f0c1b613abba7437f9a3750099df895d647ce89072d03a2"
